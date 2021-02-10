@@ -1,0 +1,111 @@
+h1 {
+font-weight: bold;
+color: #c0809c;
+text-align: center;
+}
+
+h2 {
+font-weight: bold;
+color: pink;
+text-align: center;
+}
+
+
+p {
+
+  font-family: 'Montaga', serif;
+  color: #2c6a4f;
+  font-size: px;
+  text-align: center;
+
+}
+
+div {
+  border: 1px solid dark grey;
+  margin: 20px;
+  padding: 25px;
+  background-color: #ffc1070d;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px black;
+
+}
+
+#introduction {
+
+  text-align: center;
+}
+
+
+
+.img-circle {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+
+}
+
+#social-media {
+
+text-align: center;
+
+}
+
+.shadowed {
+
+box-shadow 5px 5px 3px #f6c145;
+
+}
+
+a {
+  color: #c0809c;
+  text-decoration: none;
+}
+
+a:hover {
+ background-color: #f6c145;
+}
+
+
+.btn-blue {
+  background-color: #c0809c;
+  border: 1px solid;
+  padding: 17px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.icons {
+  text-align: center;
+  font-weight: 600;
+  font-size: 25px;
+  position: relative;
+  top: 5px;
+  left: 5px;
+  display: inline-flex;
+  padding-right: 35px;
+  margin: 0 10px 0 0;
+
+}
+
+
+
+ul {
+  list-style-type: none;
+  text-align:center;
+
+
+
+}
+i {
+  font-size: xxx-small;
+  color: #c0809c;
+  padding: 30px 30px;
+  text-align: center;
+  justify-content: center;
+  width: 120px;
+
+}
+
+}
+
